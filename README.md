@@ -1,2 +1,2 @@
-# M7_Excercise
+# cise
 Excercise for Session M7
